@@ -1,0 +1,78 @@
+# **Project Document**  
+## **Log Management System**  
+
+---
+
+### **1. Project Overview**  
+This document explains how to organize and manage a system that stores and handles log files. The focus is on creating proper folders, organizing files, backing up important data, and keeping everything clean and efficient.  
+
+---
+
+### **2. Folder Creation and Organization**  
+A main folder will be created to store all logs. Inside this folder, there will be 12 smaller folders, one for each month of the year. Each monthly folder will include different files to store:  
+- General logs.  
+- Error records.  
+- System events or activities.  
+
+---
+
+### **3. File Handling**  
+Files will be properly managed by:  
+- Moving files from one month’s folder to another when necessary.  
+- Renaming files to keep older versions as backups.  
+- Checking the folders to confirm changes have been made.  
+
+---
+
+### **4. File Protection**  
+A settings file will be created to store important information about the system. This file will be locked so that only the main user can view or edit it.  
+
+---
+
+### **5. Backup of Files**  
+Important files will be copied to a separate folder to keep backups in case they are needed later. These backups will be checked to ensure they are correct.  
+
+---
+
+### **6. Removing Unnecessary Files and Folders**  
+Unused or empty folders and outdated files will be deleted to keep the system organized and clean.  
+
+---
+
+### **7. Creating Files Automatically**  
+A process will be set up to automatically create multiple log files for daily records, so manual work is minimized.  
+
+---
+
+### **8. Tracking System Activity**  
+The system’s performance and activity will be checked regularly to make sure everything is working smoothly and without interruptions.  
+
+---
+
+### **9. Checking Connections**  
+To ensure the system can receive logs from other sources, its connection to other systems or servers will be tested.  
+
+---
+
+### **10. Searching for Files and Content**  
+Specific files or information inside log files, such as errors, can be searched quickly to help find issues.  
+
+---
+
+### **11. User-Specific Folders**  
+Separate folders will be created for each person or program that sends logs to the system. These folders will have their own permissions to protect data.  
+
+---
+
+### **12. Keeping the System Organized**  
+Processes will be added to clean up empty folders and sort log files by size to identify large files that might need attention.  
+
+---
+
+### **13. Creating Backups of Log Folders**  
+The entire main folder with all its logs will be saved as a backup in one single file. This ensures all the data is secure and can be restored if needed.  
+
+---
+
+### **14. Summary**  
+This project focuses on creating an organized system for storing, managing, and protecting log files. The steps ensure that everything is easy to find, well-maintained, and safe from errors or loss.
